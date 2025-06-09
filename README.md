@@ -1,2 +1,2 @@
-# NOSQLTF
+# nosqltf
 NL to NoSQL
